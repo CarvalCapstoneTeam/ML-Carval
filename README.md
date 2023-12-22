@@ -3,8 +3,8 @@
 
 ## About Model
 The model used by Carval to predict whether a job vacancy is fake or real (Binary Classification).
-  1 for a fake job
-  0 for a real job
+- 1 for a fake job
+- 0 for a real job
 
 ## About Dataset
 The dataset comprises 18,000 job descriptions, with approximately 800 identified as fraudulent. It includes both textual details and meta-information related to the jobs.
