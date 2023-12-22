@@ -7,7 +7,7 @@ The model used by Carval to predict whether a job vacancy is fake or real (Binar
 - 0 for a real job
 
 ## About Dataset
-The dataset comprises 18,000 job descriptions, with approximately 800 identified as fraudulent. It includes both textual details and meta-information related to the jobs.
+The dataset comprises 17880 job descriptions, with approximately 866 identified as fraudulent. It includes both textual details and meta-information related to the jobs.
 
 ## Libraries
   1. [Numpy](https://numpy.org/))
@@ -21,4 +21,4 @@ The dataset comprises 18,000 job descriptions, with approximately 800 identified
   9. [Tensorflow](https://www.tensorflow.org/)
 
 ## Model Evaluation
-The model gets 99% Training Accuracy and 92% Testing Accuracy
+The model gets 9% Training Accuracy and 92% Testing Accuracy
